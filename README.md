@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+![image](https://github.com/user-attachments/assets/6f1fbcfb-1135-450d-a954-2c28fab77701)
+
+
 <!--
 **Carlos-Bedoya-Restrepo/Carlos-Bedoya-Restrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
