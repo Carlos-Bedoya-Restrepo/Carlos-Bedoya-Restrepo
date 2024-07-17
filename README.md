@@ -4,6 +4,12 @@
 ![image](https://github.com/user-attachments/assets/6f1fbcfb-1135-450d-a954-2c28fab77701)
 
 
+![image](https://github.com/user-attachments/assets/6c51f4cf-33c6-409c-8d0b-860abd155f99)
+
+![image](https://github.com/user-attachments/assets/a5f2e410-cdaf-49fe-a89f-100732603d6a)
+
+
+
 <!--
 **Carlos-Bedoya-Restrepo/Carlos-Bedoya-Restrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
