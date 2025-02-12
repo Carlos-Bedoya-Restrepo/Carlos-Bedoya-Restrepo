@@ -1,5 +1,5 @@
 ## Hola!! 👋
-# 👷‍♂️ Ingeniero de Minas y Metalurgia con Énfasis en Ciencia de Datos para Procesamiento de Minerales.
+# 👷‍♂️ Ingeniero de Minas y Metalurgia con Énfasis en Ciencia de Datos y desarrollo backend.
 
 ¡Hola! Soy Carlos Bedoya, **Ingeniero de Minas y Metalurgia** con un fuerte enfoque en la **Ciencia de Datos** aplicada al procesamiento de minerales. Mi experiencia abarca una amplia gama de disciplinas dentro de la minería y la metalurgia, y estoy siempre en busca de nuevos desafíos y oportunidades para aplicar mis habilidades. 
 
